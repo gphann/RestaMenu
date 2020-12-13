@@ -1,0 +1,13 @@
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\bin\Debug\netcoreapp3.1\RestaMenu.exe
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\bin\Debug\netcoreapp3.1\RestaMenu.deps.json
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\bin\Debug\netcoreapp3.1\RestaMenu.runtimeconfig.json
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\bin\Debug\netcoreapp3.1\RestaMenu.runtimeconfig.dev.json
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\bin\Debug\netcoreapp3.1\RestaMenu.dll
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\bin\Debug\netcoreapp3.1\RestaMenu.pdb
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\obj\Debug\netcoreapp3.1\RestaMenu.csprojAssemblyReference.cache
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\obj\Debug\netcoreapp3.1\RestaMenu.AssemblyInfoInputs.cache
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\obj\Debug\netcoreapp3.1\RestaMenu.AssemblyInfo.cs
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\obj\Debug\netcoreapp3.1\RestaMenu.csproj.CoreCompileInputs.cache
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\obj\Debug\netcoreapp3.1\RestaMenu.dll
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\obj\Debug\netcoreapp3.1\RestaMenu.pdb
+C:\Users\hklov\Desktop\C#\RestaMenu\RestaMenu\obj\Debug\netcoreapp3.1\RestaMenu.genruntimeconfig.cache
